@@ -1,0 +1,1 @@
+open -a Safari 'https://mail.google.com/'
